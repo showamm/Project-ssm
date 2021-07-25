@@ -8,5 +8,7 @@ public class GitTest {
     public void test1(){
         System.out.println("Git二版");
         System.out.println("GitHotFIX版");
+        System.out.println("GitHotFIX版");
+        System.out.println("GitHotFIX版");
     }
 }
