@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("GitHotFIX版");
         System.out.println("GitHotFIX版");
         System.out.println("GitHotFIX版");
+        System.out.println("GitHotFIX版");
     }
 }
