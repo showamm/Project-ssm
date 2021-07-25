@@ -15,7 +15,7 @@ public class GitTest {
     }
     @Test
     public void test2(){
-        System.out.println("Git二版");
+        System.out.println("GithubPULL");
 
     }
 }
